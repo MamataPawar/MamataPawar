@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MamataPawar
 - 👀 I’m interested in .net technologiest as well as leading the team.
-- 🌱 I’m currently learning .net Core and Angular.
+- 🌱 I’m currently learning .net Core and Javascript frameworks.
 
 <!---
 MamataPawar/MamataPawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
